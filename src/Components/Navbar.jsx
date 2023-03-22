@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className='navbar'>
       <span className="logo">Chat App</span>
       <div className="user">
-        <img src="https://images.pexels.com/photos/2918513/pexels-photo-2918513.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
+        <img src="https://helostatus.com/wp-content/uploads/2021/08/profile-pictures-for-WhatsApp-1024x1024.jpg?is-pending-load=1" alt="" />
         <span>
           Junaid
         </span>

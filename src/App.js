@@ -4,7 +4,7 @@ import Register from "./Pages/Register";
 import "./style.scss"
 function App() {
   return (
-    <Home/>
+    <Register/>
   );
 }
 
